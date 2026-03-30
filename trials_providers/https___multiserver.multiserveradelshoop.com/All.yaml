@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ⛔اشتراک را تمدید کنید⛔ - multi, server: empty.node, port: 443, type: trojan, password: e5c1cfff-adcb-4502-a31c-8519a7a6066f, sni: empty.node, skip-cert-verify: true, udp: true}
-- {name: ⛔اشتراک منقضی شده است⛔ - multi, server: empty.node, port: 443, type: trojan, password: e5c1cfff-adcb-4502-a31c-8519a7a6066f, sni: empty.node, skip-cert-verify: true, udp: true}
+- {name: ⛔اشتراک را تمدید کنید⛔ - multi, server: empty.node, port: 443, type: trojan, password: c825671e-d246-45d8-9bda-8f9a8d7d4cb6, sni: empty.node, skip-cert-verify: true, udp: true}
+- {name: ⛔اشتراک منقضی شده است⛔ - multi, server: empty.node, port: 443, type: trojan, password: c825671e-d246-45d8-9bda-8f9a8d7d4cb6, sni: empty.node, skip-cert-verify: true, udp: true}
