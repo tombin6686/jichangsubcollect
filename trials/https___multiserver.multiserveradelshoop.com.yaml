@@ -19,7 +19,8 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫
+  - ⛔اشتراک را تمدید کنید⛔ - multi
+  - ⛔اشتراک منقضی شده است⛔ - multi
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -54,7 +55,8 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 2128fc55-f72e-379b-b32a-7e0971292988, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ⛔اشتراک را تمدید کنید⛔ - multi, server: empty.node, port: 443, type: trojan, password: 9a2aabe9-e35b-4f75-b008-210afbcd17eb, sni: empty.node, skip-cert-verify: true, udp: true}
+- {name: ⛔اشتراک منقضی شده است⛔ - multi, server: empty.node, port: 443, type: trojan, password: 9a2aabe9-e35b-4f75-b008-210afbcd17eb, sni: empty.node, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
