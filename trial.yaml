@@ -221,27 +221,27 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 2128fc55-f72e-379b-b32a-7e0971292988, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: 3a341530-7c20-3340-8f88-1dfe772ef806, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 输入网址时请加上https:// - 三番云, server: google.com, port: 8888, type: vmess, uuid: ca45daa2-1a12-4678-ba38-4bfabcc6ede7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, udp: true}
-- {name: ℹ️ 请续费：https://mains.3fan4.net - 三番云, server: google.com, port: 8888, type: vmess, uuid: ca45daa2-1a12-4678-ba38-4bfabcc6ede7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, udp: true}
-- {name: ⛔اشتراک را تمدید کنید⛔ - multi, server: empty.node, port: 443, type: trojan, password: 9a2aabe9-e35b-4f75-b008-210afbcd17eb, sni: empty.node, skip-cert-verify: true, udp: true}
-- {name: ⛔اشتراک منقضی شده است⛔ - multi, server: empty.node, port: 443, type: trojan, password: 9a2aabe9-e35b-4f75-b008-210afbcd17eb, sni: empty.node, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 237293dd-830a-4e53-a987-895c759cab72, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 237293dd-830a-4e53-a987-895c759cab72, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 237293dd-830a-4e53-a987-895c759cab72, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 237293dd-830a-4e53-a987-895c759cab72, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 237293dd-830a-4e53-a987-895c759cab72, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 8b3dc144-cadd-317b-bf62-dd7079c47637, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 输入网址时请加上https:// - 三番云, server: google.com, port: 8888, type: vmess, uuid: 58b32641-b221-4eaa-836b-6fe7bbde9b39, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, udp: true}
+- {name: ℹ️ 请续费：https://mains.3fan4.net - 三番云, server: google.com, port: 8888, type: vmess, uuid: 58b32641-b221-4eaa-836b-6fe7bbde9b39, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, udp: true}
+- {name: ⛔اشتراک را تمدید کنید⛔ - multi, server: empty.node, port: 443, type: trojan, password: 0da99149-a580-4b18-bf31-f242532ce60e, sni: empty.node, skip-cert-verify: true, udp: true}
+- {name: ⛔اشتراک منقضی شده است⛔ - multi, server: empty.node, port: 443, type: trojan, password: 0da99149-a580-4b18-bf31-f242532ce60e, sni: empty.node, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 40cfb8bc-2aa6-4ef7-ad82-717145e00743, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 40cfb8bc-2aa6-4ef7-ad82-717145e00743, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 40cfb8bc-2aa6-4ef7-ad82-717145e00743, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 40cfb8bc-2aa6-4ef7-ad82-717145e00743, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 40cfb8bc-2aa6-4ef7-ad82-717145e00743, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
