@@ -1,9 +1,9 @@
 proxies:
-  - {name: yandex-01, server: hs1.0101.pw, port: 8444, type: hysteria2, password: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, auth: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, sni: hs1.0101.pw, skip-cert-verify: false, udp: true}
-  - {name: yandex-02, server: hfl.0101.pw, port: 8444, type: hysteria2, password: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, auth: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, sni: hfl.0101.pw, skip-cert-verify: false, udp: true}
-  - {name: yandex-03, server: hjnd.0101.pw, port: 8444, type: hysteria2, password: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, auth: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, sni: hjnd.0101.pw, skip-cert-verify: false, udp: true}
-  - {name: yandex-04, server: hxg1.0101.pw, port: 8444, type: hysteria2, password: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, auth: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, sni: hxg1.0101.pw, skip-cert-verify: false, udp: true}
-  - {name: yandex-05, server: hhl.0101.pw, port: 8444, type: hysteria2, password: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, auth: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, sni: hhl.0101.pw, skip-cert-verify: false, udp: true}
-  - {name: yandex-06, server: hxg5.0101.pw, port: 8444, type: hysteria2, password: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, auth: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, sni: hxg5.0101.pw, skip-cert-verify: false, udp: true}
-  - {name: yandex-07, server: dg3.0101.pw, port: 1084, type: hysteria2, password: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, auth: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, sni: dg3.0101.pw, skip-cert-verify: false, udp: true}
-  - {name: yandex-08, server: hk01.0101.pw, port: 1807, type: hysteria2, password: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, auth: 73778b91-e7bd-4dd1-b4cd-56e7013c2076, sni: hk01.0101.pw, skip-cert-verify: false, udp: true}
+  - {name: yandex-01, server: hs1.0101.pw, port: 8444, type: hysteria2, password: 8e82ce41-a98f-4497-aea2-b4771a64ada9, auth: 8e82ce41-a98f-4497-aea2-b4771a64ada9, sni: hs1.0101.pw, skip-cert-verify: false, udp: true}
+  - {name: yandex-02, server: hfl.0101.pw, port: 8444, type: hysteria2, password: 8e82ce41-a98f-4497-aea2-b4771a64ada9, auth: 8e82ce41-a98f-4497-aea2-b4771a64ada9, sni: hfl.0101.pw, skip-cert-verify: false, udp: true}
+  - {name: yandex-03, server: hjnd.0101.pw, port: 8444, type: hysteria2, password: 8e82ce41-a98f-4497-aea2-b4771a64ada9, auth: 8e82ce41-a98f-4497-aea2-b4771a64ada9, sni: hjnd.0101.pw, skip-cert-verify: false, udp: true}
+  - {name: yandex-04, server: hxg1.0101.pw, port: 8444, type: hysteria2, password: 8e82ce41-a98f-4497-aea2-b4771a64ada9, auth: 8e82ce41-a98f-4497-aea2-b4771a64ada9, sni: hxg1.0101.pw, skip-cert-verify: false, udp: true}
+  - {name: yandex-05, server: hhl.0101.pw, port: 8444, type: hysteria2, password: 8e82ce41-a98f-4497-aea2-b4771a64ada9, auth: 8e82ce41-a98f-4497-aea2-b4771a64ada9, sni: hhl.0101.pw, skip-cert-verify: false, udp: true}
+  - {name: yandex-06, server: hxg5.0101.pw, port: 8444, type: hysteria2, password: 8e82ce41-a98f-4497-aea2-b4771a64ada9, auth: 8e82ce41-a98f-4497-aea2-b4771a64ada9, sni: hxg5.0101.pw, skip-cert-verify: false, udp: true}
+  - {name: yandex-07, server: dg3.0101.pw, port: 1084, type: hysteria2, password: 8e82ce41-a98f-4497-aea2-b4771a64ada9, auth: 8e82ce41-a98f-4497-aea2-b4771a64ada9, sni: dg3.0101.pw, skip-cert-verify: false, udp: true}
+  - {name: yandex-08, server: hk01.0101.pw, port: 1807, type: hysteria2, password: 8e82ce41-a98f-4497-aea2-b4771a64ada9, auth: 8e82ce41-a98f-4497-aea2-b4771a64ada9, sni: hk01.0101.pw, skip-cert-verify: false, udp: true}
