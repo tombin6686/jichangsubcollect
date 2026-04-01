@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 868f38a7-88bb-38d8-bd3a-077952a5e45b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id002 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id004 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 输入网址时请加上https:// - 三番云, server: google.com, port: 8888, type: vmess, uuid: 28993830-84fe-445c-90c4-eab856db8b3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, udp: true}
-- {name: ℹ️ 请续费：https://mains.3fan4.net - 三番云, server: google.com, port: 8888, type: vmess, uuid: 28993830-84fe-445c-90c4-eab856db8b3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, udp: true}
-- {name: ⛔اشتراک را تمدید کنید⛔ - multi, server: empty.node, port: 443, type: trojan, password: cbd79d7b-6c8c-4831-8a8a-aac6b7d9d249, sni: empty.node, skip-cert-verify: true, udp: true}
-- {name: ⛔اشتراک منقضی شده است⛔ - multi, server: empty.node, port: 443, type: trojan, password: cbd79d7b-6c8c-4831-8a8a-aac6b7d9d249, sni: empty.node, skip-cert-verify: true, udp: true}
+- &id001 {name: ℹ️ 非节点❌网站sdm5g.com，请每周更新订阅！ - 闪电猫, server: dog.lightningcat.pro, port: 10086, type: vmess, uuid: 4f6838ab-7d0f-3623-9a71-0c9496a6c514, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: edbba1b9-8192-336c-9811-ffbd52d8733a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id003 {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: edbba1b9-8192-336c-9811-ffbd52d8733a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id004 {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: edbba1b9-8192-336c-9811-ffbd52d8733a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 输入网址时请加上https:// - 三番云, server: google.com, port: 8888, type: vmess, uuid: 44d6ed4c-4c02-4f7d-a091-57a3763463a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, udp: true}
+- {name: ℹ️ 请续费：https://mains.3fan4.net - 三番云, server: google.com, port: 8888, type: vmess, uuid: 44d6ed4c-4c02-4f7d-a091-57a3763463a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, udp: true}
+- {name: ⛔اشتراک را تمدید کنید⛔ - multi, server: empty.node, port: 443, type: trojan, password: 0c63648f-6d38-43f0-9bb2-ed962567a51f, sni: empty.node, skip-cert-verify: true, udp: true}
+- {name: ⛔اشتراک منقضی شده است⛔ - multi, server: empty.node, port: 443, type: trojan, password: 0c63648f-6d38-43f0-9bb2-ed962567a51f, sni: empty.node, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
 - *id003

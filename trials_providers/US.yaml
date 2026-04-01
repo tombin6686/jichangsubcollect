@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: e98a30b1-c7d5-3f2c-ada6-c672ec4be4ae, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 9646ca14-dacb-4934-bb15-03e071f4c8e6, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- &id001 {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: edbba1b9-8192-336c-9811-ffbd52d8733a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: ee454491-f937-449f-9d26-9ec04aee3dbe, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id001
