@@ -2,5 +2,5 @@
 ---
 proxies:
 - &id001 {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 6f92f595-347a-3aeb-93cb-532491615f52, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: bd7f19d8-141f-4878-abbb-901e85c0ebc9, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 3c3f7472-3c0f-4d85-90be-2da0e3f3ccef, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id001
