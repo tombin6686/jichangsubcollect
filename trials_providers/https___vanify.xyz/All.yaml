@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国_邮箱:vanify@proton.me - CloudSurf, server: 154.19.242.140, port: 21102, type: ss, cipher: aes-256-gcm, password: d29d3158-5975-497d-b028-15b3aa8cc8fa, udp: true}
