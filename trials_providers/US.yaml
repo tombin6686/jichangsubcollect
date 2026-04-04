@@ -2,6 +2,6 @@
 ---
 proxies:
 - &id001 {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 3a393d6a-1719-3570-af02-871a9e8a8d91, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: c8190a76-c2eb-42f8-93dd-16b7becab585, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: d9186278-de25-48da-921f-6c2eef988e99, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国_邮箱:vanify@proton.me - CloudSurf, server: 154.19.242.140, port: 21102, type: ss, cipher: aes-256-gcm, password: d29d3158-5975-497d-b028-15b3aa8cc8fa, udp: true}
 - *id001
